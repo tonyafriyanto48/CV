@@ -1,0 +1,4 @@
+#Tue Apr 12 02:56:43 ICT 2022
+base.0=D\:\\curiculum_vitae\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

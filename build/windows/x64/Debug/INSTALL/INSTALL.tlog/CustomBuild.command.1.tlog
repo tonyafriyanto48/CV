@@ -1,0 +1,10 @@
+^D:\CURICULUM_VITAE\BUILD\WINDOWS\CMAKEFILES\FCD31F08AA50FBC24C9A22E21C6505B9\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

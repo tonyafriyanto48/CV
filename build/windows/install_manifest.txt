@@ -1,0 +1,10 @@
+D:/curiculum_vitae/build/windows/runner/Debug/data/icudtl.dat
+D:/curiculum_vitae/build/windows/runner/Debug/flutter_windows.dll
+D:/curiculum_vitae/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/curiculum_vitae/build/windows/runner/Debug/data/flutter_assets/assets/images/latar.jpg
+D:/curiculum_vitae/build/windows/runner/Debug/data/flutter_assets/assets/images/tonyfp.jpg
+D:/curiculum_vitae/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+D:/curiculum_vitae/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/curiculum_vitae/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/curiculum_vitae/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/curiculum_vitae/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
